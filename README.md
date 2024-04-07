@@ -6,7 +6,7 @@
 
 - 👀 I'm passionate about Android and Web Development.
 - 🌱 I'm currently learning new programming languages and technologies to enhance my skills.
-- 💼 Currently working as an Automation QA Engineer at [Your Company Name].
+- 💼 Currently working as an Automation QA Engineer at Cognizant.
 - 🎓 I hold a Master of Computer Applications degree from Dr.B.C.Roy Engineering College, Durgapur, India.
 
 ### Technologies & Tools
