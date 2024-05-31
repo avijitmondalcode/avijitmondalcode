@@ -1,4 +1,10 @@
 ![logo](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/Red%20and%20black%20Fashion%20Sale%20Facebook%20Cover%20(1).gif)
+
+<h1 align="center">Hi 👋, I'm Avijit Mondal</h1>
+<h3 align="center">🌟 Aspiring Software Developer | 🌐 Open Source Enthusiast | 👨‍💻 Android & Web Developer | 🚀 Empowering the Web with WordPress and PHP</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitmondalcode&label=Profile%20views&color=0e75b6&style=flat" alt="avijitmondalcode" /> </p>
+
 ### Hi there, I'm Avijit Mondal! 👋
 
 👨‍💻 Android & Web Developer | 🌐 Open Source Enthusiast | 📱 Mobile App Enthusiast
