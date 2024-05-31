@@ -1,21 +1,29 @@
 ![logo](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/Red%20and%20black%20Fashion%20Sale%20Facebook%20Cover%20(1).gif)
 
 <h1 align="center">Hi 👋, I'm Avijit Mondal</h1>
-<h3 align="center">🌟 Aspiring Software Developer | 🌐 Open Source Enthusiast | 👨‍💻 Android & Web Developer | 🚀 Empowering the Web with WordPress and PHP</h3>
+<h3 align="center">🌟 Aspiring Software Developer | 🌐 Open Source Enthusiast | 👨‍💻 Android & Web Developer </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=avijitmondalcode&label=Profile%20views&color=0e75b6&style=flat" alt="avijitmondalcode" /> </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=avijitmondalcode&label=Profile%20views&color=0e75b6&style=flat" alt="avijitmondalcode" /> </p>
 
-### Hi there, I'm Avijit Mondal! 👋
+<!---### Hi there, I'm Avijit Mondal! 👋
 
 👨‍💻 Android & Web Developer | 🌐 Open Source Enthusiast | 📱 Mobile App Enthusiast
 
 ### About Me
 
 - 👀 I'm passionate about Android and Web Development.
-- 🌱 I'm currently learning new programming languages and technologies to enhance my skills.
+- 🌱 I am currently learning Web Developemt(PHP) and WordpressI'm currently learning new programming languages and technologies to enhance my skills.
 - 💼 Currently working as an Automation QA Engineer at Cognizant.
 - 🎓 I hold a Master of Computer Applications degree from Dr.B.C.Roy Engineering College, Durgapur, India.
+-->
 
+### About Me
+
+- 👀 Passionate about Android and Web Development.
+- 🌱 Currently honing my skills in Web Development, with a focus on PHP, WordPress, and actively immersing myself in learning the React framework.
+- 💼 Employed as an Automation QA Engineer at Cognizant.
+- 🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.
+  
 ### Technologies & Tools
 
 - Android Development: Java, Kotlin, Android Studio
