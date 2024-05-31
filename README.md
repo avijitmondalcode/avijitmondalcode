@@ -73,6 +73,7 @@
 <!--END Technologies & Tools-->
 
 <!--Start Stats-->
+<h3 align="center">Github Stats</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitmondalcode&show_icons=true&locale=en&layout=compact" alt="avijitmondalcode" /></p>
 
