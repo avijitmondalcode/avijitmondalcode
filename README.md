@@ -1,4 +1,4 @@
-![logo](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
+![logo](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/Red%20and%20black%20Fashion%20Sale%20Facebook%20Cover%20(1).gif)
 ### Hi there, I'm Avijit Mondal! 👋
 
 👨‍💻 Android & Web Developer | 🌐 Open Source Enthusiast | 📱 Mobile App Enthusiast
