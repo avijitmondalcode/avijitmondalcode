@@ -1,52 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-        }
-        h1, h2, h3 {
-            color: #333;
-            text-align: center;
-        }
-        .section-title {
-            background: #f4f4f4;
-            padding: 10px;
-            margin-top: 20px;
-            border-left: 5px solid #007acc;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        li {
-            margin-bottom: 10px;
-        }
-        p {
-            text-align: center;
-        }
-        .skills {
-            text-align: left;
-            margin: 0 auto;
-            width: 80%;
-        }
-        .icons img {
-            margin: 5px;
-        }
-    </style>
-</head>
-<body>
-
 <!-- Start Header -->
 <p align="center">
     <img src="https://github.com/avijitmondalcode/avijitmondalcode/blob/main/Red%20and%20black%20Fashion%20Sale%20Facebook%20Cover%20(1).gif" alt="logo">
 </p>
-<h1>Hi 👋, I'm Avijit Mondal</h1>
-<h3>🌟 Aspiring Software Developer | 🌐 Open Source Enthusiast | 👨‍💻 Android & Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Avijit Mondal</h1>
+<h3 align="center">🌟 Aspiring Software Developer | 🌐 Open Source Enthusiast | 👨‍💻 Android & Web Developer</h3>
 <p align="right">
     <img src="https://komarev.com/ghpvc/?username=avijitmondalcode&label=Profile%20views&color=0e75b6&style=flat" alt="avijitmondalcode">
 </p>
@@ -54,7 +11,7 @@
 
 <!-- Start About Me -->
 <div class="section-title">
-    <h2>ABOUT ME</h2>
+    <h2 align="center">ABOUT ME</h2>
 </div>
 <ul>
     <li>🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.</li>
@@ -68,7 +25,7 @@
 
 <!-- Start Let's Get Connected -->
 <div class="section-title">
-    <h2>Let's Get Connected 🤝</h2>
+    <h2 align="center">Let's Get Connected 🤝</h2>
 </div>
 <p>
     <a href="mailto:avijitmondalasn12@gmail.com" target="_blank">
@@ -88,7 +45,7 @@
 
 <!-- Start Work Experience -->
 <div class="section-title">
-    <h2>WORK EXPERIENCES</h2>
+    <h2 align="center">WORK EXPERIENCES</h2>
 </div>
 <ul>
     <li><strong>Automation QA Engineer</strong> | Cognizant, Kolkata, India <br>
@@ -106,7 +63,7 @@
 
 <!-- Start Internships -->
 <div class="section-title">
-    <h2>INTERNSHIPS</h2>
+    <h2 align="center">INTERNSHIPS</h2>
 </div>
 <ul>
     <li><strong>C and C++ Programming Internship</strong> | <a href="https://techintern.io/">Techintern Community</a> <em>(April 2023 - May 2023)</em></li>
@@ -118,7 +75,7 @@
 
 <!-- Start Education -->
 <div class="section-title">
-    <h2>EDUCATION</h2>
+    <h2 align="center">EDUCATION</h2>
 </div>
 <ul>
     <li><strong>Master of Computer Applications [MCA]</strong> <em>(2022 – 2024)</em> <br>
@@ -130,7 +87,7 @@
 
 <!-- Start Skills -->
 <div class="section-title">
-    <h2>SKILLS</h2>
+    <h2 align="center">SKILLS</h2>
 </div>
 
 <div class="skills">
@@ -147,6 +104,7 @@
     <p><strong>Version Control:</strong> Git, GitHub</p>
     <p><strong>Continuous Integration:</strong> Jenkins</p>
     <p><strong>Project Management:</strong> JIRA, Azure Board</p>
+    
 </div>
 
 <div class="icons">
@@ -214,7 +172,7 @@
 
 <!-- Start GitHub Stats -->
 <div class="section-title">
-    <h2>GitHub Stats</h2>
+    <h2 align="center">GitHub Stats</h2>
 </div>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitmondalcode&show_icons=true&locale=en&layout=compact" alt="avijitmondalcode">
@@ -229,14 +187,12 @@
 
 <!-- Start Footer -->
 <div class="section-title">
-    <h2>Fun Fact</h2>
+    <h2 align="center">Fun Fact</h2>
 </div>
 <p>👀 I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.</p>
 <div class="section-title">
-    <h2>Let's Connect</h2>
+    <h2 align="center">Let's Connect</h2>
 </div>
 <p>If you share similar interests or have exciting projects to collaborate on, feel free to reach out!</p>
 <!-- End Footer -->
 
-</body>
-</html>
