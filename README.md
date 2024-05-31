@@ -91,19 +91,23 @@
 </div>
 
 <div class="skills">
-    <h3>Technologies & Tools</h3>
-    <p><strong>Languages:</strong> PHP, JavaScript, HTML, CSS, SQL, Python</p>
-    <p><strong>Frameworks:</strong> React.js, Bootstrap</p>
-    <p><strong>Technologies:</strong> WordPress, Git, MySQL, Apache</p>
-    <p><strong>Tools:</strong> GitHub, Unit Testing Frameworks</p>
-    <p><strong>Other:</strong> OOPs, Debugging, Web Development Fundamentals</p>
 
-    <h3>Additional Expertise</h3>
-    <p><strong>Android Development:</strong> Java, Kotlin, Android Studio</p>
-    <p><strong>Automation Testing:</strong> Selenium WebDriver, TestNG, Cucumber</p>
-    <p><strong>Version Control:</strong> Git, GitHub</p>
-    <p><strong>Continuous Integration:</strong> Jenkins</p>
-    <p><strong>Project Management:</strong> JIRA, Azure Board</p>
+### Technologies & Tools
+
+**Languages:** PHP, JavaScript, HTML, CSS, SQL, Python  
+**Frameworks:** React.js,Bootstrap    
+**Technologies:** WordPress, Git, MySQL, Apache  
+**Tools:** GitHub, Unit Testing Frameworks  
+**Other:** OOPs, Debugging, Web Development Fundamentals
+
+### Additional Expertise
+
+**Android Development:** Java, Kotlin, Android Studio  
+**Automation Testing:** Selenium WebDriver, TestNG, Cucumber  
+**Version Control:** Git, GitHub  
+**Continuous Integration:** Jenkins  
+**Project Management:** JIRA, Azure Board
+
     
 </div>
 
