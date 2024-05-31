@@ -84,7 +84,7 @@
 <!--END Stats-->
 
 <!--Footer-->
-
+<center>
 <h3 align="center"> Fun Fact </h3>
 
 I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.
@@ -92,3 +92,4 @@ I enjoy solving coding challenges on platforms like LeetCode and HackerRank in m
 <h3 align="center">Let's Connect</h3>
 
 If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
+</center>
