@@ -19,10 +19,13 @@
 
 ### About Me
 
+- 🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.
+- 💼 Employed as an Automation QA Engineer at Cognizant.
 - 👀 Passionate about Android and Web Development.
 - 🌱 Currently honing my skills in Web Development, with a focus on PHP, WordPress, and actively immersing myself in learning the React framework.
-- 💼 Employed as an Automation QA Engineer at Cognizant.
-- 🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.
+- 💬 Ask me about Automation, JS, PHP,JAVA.
+- 👨‍💻 All of my projects are available at [https://github.com/avijitmondalcode](https://github.com/avijitmondalcode)
+- 📫 How to reach me **avijitmondalasn12@gmail.com**
   
 ### Technologies & Tools
 
