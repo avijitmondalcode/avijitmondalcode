@@ -24,7 +24,22 @@
 - 👀 Passionate about Android and Web Development.
 - 🌱 Currently honing my skills in Web Development, with a focus on PHP, WordPress, and actively immersing myself in learning the React framework.
 - 💬 Ask me about Automation, JS, PHP,JAVA.
-  
+
+### Get in Touch
+
+<p align="left">
+<a href="mailto:avijitmondalasn12@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="avijitmondalasn12@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avijit-mondal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-mondal12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@avijitmondalcod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avijitmondalcod1" height="30" width="40" /></a>
+<a href="https://github.com/avijitmondalcode" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="avijitmondalcode" height="30" width="40" /></a>
+</p>
+
+<!--
+- 📫 Email: avijitmondalasn12@gmail.com
+- 💼 LinkedIn: [Avijit Mondal](https://www.linkedin.com/in/avijit-mondal12/)
+- 🌐 GitHub: [avijitmondalcode](https://github.com/avijitmondalcode)
+-->
+
 ### Technologies & Tools
 
 **Languages:** PHP, JavaScript, HTML, CSS, SQL, Python  
@@ -41,20 +56,6 @@
 **Continuous Integration:** Jenkins  
 **Project Management:** JIRA, Azure Board
 
-### Get in Touch
-
-<p align="left">
-<a href="mailto:avijitmondalasn12@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="avijitmondalasn12@gmail.com" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/avijit-mondal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-mondal12" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@avijitmondalcod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avijitmondalcod1" height="30" width="40" /></a>
-<a href="https://github.com/avijitmondalcode" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="avijitmondalcode" height="30" width="40" /></a>
-</p>
-
-<!--
-- 📫 Email: avijitmondalasn12@gmail.com
-- 💼 LinkedIn: [Avijit Mondal](https://www.linkedin.com/in/avijit-mondal12/)
-- 🌐 GitHub: [avijitmondalcode](https://github.com/avijitmondalcode)
--->
 
 ### Fun Fact
 
