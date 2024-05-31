@@ -47,10 +47,9 @@
 
 <!--END Let's Get Connected-->
 
-<h1>Professional Experience and Education</h1>
 
 <div class="section-title">
-    <h2>Experience</h2>
+    <h2 align="center">Experience</h2>
 </div>
 <ul>
     <li><strong>Automation QA Engineer</strong> | Cognizant, Kolkata, India <br>
@@ -66,7 +65,7 @@
 </ul>
 
 <div class="section-title">
-    <h2>Internships</h2>
+    <h2 align="center">Internships</h2>
 </div>
 <ul>
     <li><strong>C and C++ Programming Internship</strong> | Techintern Community <br>
@@ -80,7 +79,7 @@
 </ul>
 
 <div class="section-title">
-    <h2>Education</h2>
+    <<h2 align="center">Education</h2>
 </div>
 <ul>
     <li><strong>Master of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India <br>
