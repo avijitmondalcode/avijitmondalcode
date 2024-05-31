@@ -49,7 +49,7 @@
 
 
 <div class="section-title">
-    <h2 align="center">Experience</h2>
+    <h2 align="center">WORK EXPERIENCES</h2>
 </div>
 <ul>
     <li><strong>Automation QA Engineer</strong> | Cognizant, Kolkata, India <br>
@@ -65,7 +65,7 @@
 </ul>
 
 <div class="section-title">
-    <h2 align="center">Internships</h2>
+    <h2 align="center">INTERNSHIPS</h2>
 </div>
 <ul>
     <li><strong>C and C++ Programming Internship</strong> | <a href="https://techintern.io/">Techintern Community</a> <em>(April 2023 - May 2023)</em></li>
@@ -75,13 +75,13 @@
 </ul>
 
 <div class="section-title">
-    <<h2 align="center">Education</h2>
+    <<h2 align="center">EDUCATION</h2>
 </div>
 <ul>
-    <li><strong>Master of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
-        <em>2022 – 2024</em></li>
-    <li><strong>Bachelor of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
-        <em>2018 – 2021</em></li>
+    <li><strong>Master of Computer Applications[MCA]</strong> | <p align="right"> Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
+        <em>(2022 – 2024)</em></p></li>
+    <li><strong>Bachelor of Computer Applications[BCA(H)]</strong> |<p align="right"> Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
+        <em>(2018 – 2021)</em></p></li>
 </ul>
 
 <!--Start Technologies & Tools-->
