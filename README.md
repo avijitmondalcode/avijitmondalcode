@@ -24,23 +24,37 @@
 - 👀 Passionate about Android and Web Development.
 - 🌱 Currently honing my skills in Web Development, with a focus on PHP, WordPress, and actively immersing myself in learning the React framework.
 - 💬 Ask me about Automation, JS, PHP,JAVA.
-- 👨‍💻 All of my projects are available at [https://github.com/avijitmondalcode](https://github.com/avijitmondalcode)
-- 📫 How to reach me **avijitmondalasn12@gmail.com**
   
 ### Technologies & Tools
 
-- Android Development: Java, Kotlin, Android Studio
-- Web Development: HTML, CSS, JavaScript, PHP
-- Automation Testing: Selenium WebDriver, TestNG, Cucumber
-- Version Control: Git, GitHub
-- Continuous Integration: Jenkins
-- Project Management: JIRA, Azure Board
+**Languages:** PHP, JavaScript, HTML, CSS, SQL, Python  
+**Frameworks:** React.js  
+**Technologies:** WordPress, Git, MySQL, Apache  
+**Tools:** GitHub, Unit Testing Frameworks  
+**Other:** OOP, Debugging, Web Development Fundamentals  
+
+### Additional Expertise
+
+**Android Development:** Java, Kotlin, Android Studio  
+**Automation Testing:** Selenium WebDriver, TestNG, Cucumber  
+**Version Control:** Git, GitHub  
+**Continuous Integration:** Jenkins  
+**Project Management:** JIRA, Azure Board
 
 ### Get in Touch
 
+<p align="left">
+<a href="avijitmondalasn12@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="avijitmondalasn12@gmail.com" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/avijit-mondal12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="avijit-mondal12" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/@avijitmondalcod1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@avijitmondalcod1" height="30" width="40" /></a>
+<a href="https://github.com/avijitmondalcode" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" alt="avijitmondalcode" height="30" width="40" /></a>
+</p>
+
+<!--
 - 📫 Email: avijitmondalasn12@gmail.com
 - 💼 LinkedIn: [Avijit Mondal](https://www.linkedin.com/in/avijit-mondal12/)
 - 🌐 GitHub: [avijitmondalcode](https://github.com/avijitmondalcode)
+-->
 
 ### Fun Fact
 
