@@ -16,7 +16,7 @@
 <!--End Header-->
 
 <!--Start About Me-->
-<h3 align="center"> About Me </h3>
+<h3 align="center"> ABOUT ME </h3>
 
 - 🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.
 - 💼 Employed as an Automation QA Engineer at Cognizant.
@@ -47,8 +47,50 @@
 
 <!--END Let's Get Connected-->
 
+<h1>Professional Experience and Education</h1>
+
+<div class="section-title">
+    <h2>Experience</h2>
+</div>
+<ul>
+    <li><strong>Automation QA Engineer</strong> | Cognizant, Kolkata, India <br>
+        <em>Sep 2021 – Apr. 2023</em>
+        <ul>
+            <li>Designed, developed, and executed automated test scripts ensuring comprehensive test coverage using Selenium WebDriver, Cucumber, and Java for web applications.</li>
+            <li>Collaborated with cross-functional teams to identify test requirements, create test plans, and execute test cases for new product features and enhancements.</li>
+            <li>Conducted troubleshooting and root cause analysis of defects, working closely with developers to resolve issues and improve software quality.</li>
+            <li>Utilized continuous integration tools such as Jenkins to automate test execution and integrate test scripts into the build process, resulting in improved efficiency and faster release cycles.</li>
+            <li>Developed and maintained test automation frameworks to support regression testing and facilitate test case reusability across multiple projects.</li>
+        </ul>
+    </li>
+</ul>
+
+<div class="section-title">
+    <h2>Internships</h2>
+</div>
+<ul>
+    <li><strong>C and C++ Programming Internship</strong> | Techintern Community <br>
+        <em>April 2023 - May 2023</em></li>
+    <li><strong>Web Development Intern</strong> | OctaNet - Software Services <br>
+        <em>August 2023 - September 2023</em></li>
+    <li><strong>Android App Development Intern</strong> | Intern Savy <br>
+        <em>August 2023 - September 2023</em></li>
+    <li><strong>Web Development Internship</strong> | Code Alpha <br>
+        <em>September 2023 - October 2023</em></li>
+</ul>
+
+<div class="section-title">
+    <h2>Education</h2>
+</div>
+<ul>
+    <li><strong>Master of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India <br>
+        <em>2022 – 2024</em></li>
+    <li><strong>Bachelor of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India <br>
+        <em>2018 – 2021</em></li>
+</ul>
+
 <!--Start Technologies & Tools-->
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">SKILLS</h3>
 
 ### Technologies & Tools
 
