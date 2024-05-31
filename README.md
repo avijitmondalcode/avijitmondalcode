@@ -87,9 +87,9 @@
 
 <h3 align="center"> Fun Fact </h3>
 <center>
-- I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.
+ - 👀 I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.
 </center>
 <h3 align="center">Let's Connect</h3>
 <center>
-- If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
+ - If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
 </center>
