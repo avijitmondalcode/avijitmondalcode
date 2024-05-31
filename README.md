@@ -25,7 +25,7 @@
 - 🌱 Currently honing my skills in Web Development, with a focus on PHP, WordPress, and actively immersing myself in learning the React framework.
 - 💬 Ask me about Automation, JS, PHP,JAVA.
 
-### Get in Touch
+<h3 align="center">Let's Get Connected 🤝</h3>
 
 <p align="left">
 <a href="mailto:avijitmondalasn12@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="avijitmondalasn12@gmail.com" height="30" width="40" /></a>
