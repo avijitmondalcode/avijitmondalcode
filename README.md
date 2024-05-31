@@ -16,7 +16,7 @@
 <!--End Header-->
 
 <!--Start About Me-->
-<h3 align="center"> ABOUT ME </h3>
+<h2 align="center"> ABOUT ME </h2>
 
 - 🎓 Final year Master of Computer Applications (MCA) student at Dr. B.C. Roy Engineering College, Durgapur, India.
 - 💼 Employed as an Automation QA Engineer at Cognizant.
@@ -30,7 +30,7 @@
 
 <!--Start Let's Get Connected-->
 
-<h3 align="center">Let's Get Connected 🤝</h3>
+<h2 align="center">Let's Get Connected 🤝</h2>
 <center>
 <p align="left">
 <a href="mailto:avijitmondalasn12@gmail.com" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" alt="avijitmondalasn12@gmail.com" height="30" width="40" /></a>
@@ -68,28 +68,24 @@
     <h2 align="center">Internships</h2>
 </div>
 <ul>
-    <li><strong>C and C++ Programming Internship</strong> | Techintern Community <br>
-        <em>April 2023 - May 2023</em></li>
-    <li><strong>Web Development Intern</strong> | OctaNet - Software Services <br>
-        <em>August 2023 - September 2023</em></li>
-    <li><strong>Android App Development Intern</strong> | Intern Savy <br>
-        <em>August 2023 - September 2023</em></li>
-    <li><strong>Web Development Internship</strong> | Code Alpha <br>
-        <em>September 2023 - October 2023</em></li>
+    <li><strong>C and C++ Programming Internship</strong> | <a href="https://techintern.io/">Techintern Community</a> <em>(April 2023 - May 2023)</em></li>
+    <li><strong>Web Development Intern</strong> | <a href="https://octanet.com/">OctaNet - Software Services</a> <em>(August 2023 - September 2023)</em></li>
+    <li><strong>Android App Development Intern</strong> | <a href="https://internsavy.com/">Intern Savy</a> <em>(August 2023 - September 2023)</em></li>
+    <li><strong>Web Development Internship</strong> | <a href="https://codealpha.com/">Code Alpha</a> <em>(September 2023 - October 2023)</em></li>
 </ul>
 
 <div class="section-title">
     <<h2 align="center">Education</h2>
 </div>
 <ul>
-    <li><strong>Master of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India <br>
+    <li><strong>Master of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
         <em>2022 – 2024</em></li>
-    <li><strong>Bachelor of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India <br>
+    <li><strong>Bachelor of Computer Applications</strong> | Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
         <em>2018 – 2021</em></li>
 </ul>
 
 <!--Start Technologies & Tools-->
-<h3 align="center">SKILLS</h3>
+<h2 align="center">SKILLS</h2>
 
 ### Technologies & Tools
 
@@ -114,7 +110,7 @@
 <!--END Technologies & Tools-->
 
 <!--Start Stats-->
-<h3 align="center">Github Stats</h3>
+<h2 align="center">Github Stats</h2>
 <center>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitmondalcode&show_icons=true&locale=en&layout=compact" alt="avijitmondalcode" /></p>
 
@@ -126,8 +122,8 @@
 
 <!--Footer-->
 
-<h3 align="center"> Fun Fact </h3>
+<h2 align="center"> Fun Fact </h2>
  - 👀 I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.
-<h3 align="center">Let's Connect</h3>
+<h2 align="center">Let's Connect</h2>
  - If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
 
