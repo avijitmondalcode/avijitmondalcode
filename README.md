@@ -78,12 +78,12 @@
     <<h2 align="center">EDUCATION</h2>
 </div>
 <ul>
-    <li><strong>Master of Computer Applications [MCA] </strong> <br>
-     <p align="left"> Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
-        <em>(2022 – 2024)</em></p></li>
-    <li><strong>Bachelor of Computer Applications [BCA(H)] </strong> <br> 
-     <p align="left"> Dr. B.C. Roy Engineering College, Durgapur, India &nbsp;
-        <em>(2018 – 2021)</em></p></li>
+    <li><strong>Master of Computer Applications [MCA] </strong>
+        <em>(2022 – 2024)</em> <br>
+     <p align="left"> Dr. B.C. Roy Engineering College, Durgapur, India</p></li>
+    <li><strong>Bachelor of Computer Applications [BCA(H)] </strong> <em>(2018 – 2021)</em> <br> 
+     <p align="left"> Dr. B.C. Roy Engineering College, Durgapur, India
+     </p></li>
 </ul>
 
 <!--Start Technologies & Tools-->
