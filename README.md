@@ -74,21 +74,17 @@
 
 <!--Start Stats-->
 <h3 align="center">Github Stats</h3>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitmondalcode&show_icons=true&locale=en&layout=compact" alt="avijitmondalcode" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijitmondalcode&show_icons=true&locale=en" alt="avijitmondalcode" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitmondalcode&" alt="avijitmondalcode" /></p>
-
+<center>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=avijitmondalcode&show_icons=true&locale=en&layout=compact" alt="avijitmondalcode" />&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=avijitmondalcode&show_icons=true&locale=en" alt="avijitmondalcode" />&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=avijitmondalcode&" alt="avijitmondalcode" /></p>
+</center>
 <!--END Stats-->
 
+<!--Footer-->
 
-
-### Fun Fact
+<h3 align="center"> Fun Fact </h3>
 
 I enjoy solving coding challenges on platforms like LeetCode and HackerRank in my free time.
 
-### Let's Connect
+<h3 align="center">Let's Connect</h3>
 
 If you share similar interests or have exciting projects to collaborate on, feel free to reach out!
