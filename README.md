@@ -1,4 +1,4 @@
-![logo]([https://github.com/avijitmondalcode/avijitmondalcode/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(3).png](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/My-work.gif))
+![logo](https://github.com/avijitmondalcode/avijitmondalcode/blob/main/196581060-0e3cc3d2-93e3-4108-82ea-920de5bcece4.gif)
 ### Hi there, I'm Avijit Mondal! 👋
 
 👨‍💻 Android & Web Developer | 🌐 Open Source Enthusiast | 📱 Mobile App Enthusiast
